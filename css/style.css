@@ -1,0 +1,232 @@
+/* navbar */
+.navbar
+{
+    min-height: 100px;
+}
+.navbar-brand
+{
+    margin-left: 10%;
+}
+/* //navbar */
+
+/* home */
+.home
+{
+    background-color: rgb(241, 244, 250);
+}
+
+.home .home-content
+{
+    padding-top: 10%;
+}
+
+.home .home-text
+{
+    padding-left: 10%;
+}
+
+.home .home-text .text-blue
+{
+    color: rgb(1, 107, 186);
+}
+
+.home-text h1
+{
+    font-size: 60px;
+}
+
+.home-text p 
+{
+    font-size: 20px;
+}
+
+.home-text button
+{
+    background-color: rgb(1, 107, 186);
+    color: white;
+}
+/* //home */
+
+/* about */
+.about p
+ {
+    font-size: 20px;
+}
+
+
+.about .about-text 
+{
+    padding-top: 35%;
+    padding-bottom: 20%;
+    padding-left: 10%;
+}
+
+.about img
+{
+    padding-top: 30%;
+}
+
+.about button
+{
+    background-color: rgb(1, 107, 186);
+    color: white;
+}
+/* //about */
+
+/* how-it-works */
+.how-it-works
+{
+    background-color: rgb(248, 248, 248);
+}
+
+.how-it-works .how-content
+{
+    padding-top: 12%;
+}
+
+.how-it-works .how-cards
+{
+    padding-top: 10%;
+    padding-bottom: 5%;
+    padding-left: 17%;
+}
+
+.how-it-works .text-blue
+{
+    color: rgb(1, 107, 186);
+}
+
+.how-it-works p
+{
+    font-size: 20px;
+}
+
+.how-it-works .card
+{
+    height: 155px;
+    width: 130px;
+    float: left;
+}
+
+.how-it-works .numberCircle
+{
+    width: 39.6px;
+    height: 39.6px;
+    border-radius: 50%;
+    text-align: center;
+    font-size: 20px;
+    border: 2px solid rgb(1, 107, 186);
+    color:white;
+    background:rgb(1, 107, 186);
+    position: absolute;
+    top: -20px;
+    left: 50%;
+    transform: translateX(-50%)
+}
+
+.how-it-works .card-img
+{
+    height: 30px;
+    width: 30px;
+}
+
+.how-it-works .card-text
+{
+    font-size: 13px;
+    font-weight: bold;
+}
+/* //how-it-works */
+
+/* benefits */
+.benefits-ad
+{
+    height: 30vh;
+    padding-top: 6%;
+    padding-left: 8%;
+}
+
+.benefits .benefits-content
+{
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: rgb(248, 248, 248);
+}
+
+.benefits .text-blue
+{
+    color: rgb(1, 107, 186);
+}
+
+.benefits button
+{
+    background-color:rgb(1, 107, 186);
+    color: white;
+    margin: 13%;
+}
+
+.benefits .benefits-content .benefits-list
+{
+    font-size: 18px;
+    font-weight: 500;
+}
+/* //benefits */
+
+/* package */
+.package
+{
+    background-color: rgb(241, 244, 250);
+}
+
+.package .package-text
+{
+    margin-top: 7%;
+}
+
+.package .package-cards
+{
+    padding-top: 9%;
+    padding-left: 10%;
+    padding-bottom: 5%;
+}
+
+.package .card
+{
+  width: 230px;
+}
+
+.package button
+{
+    font-size: 13px;
+    font-weight: 500;
+    color: rgb(1, 107, 186);
+    border: solid 1px rgb(1, 107, 186);
+}
+/* //package */
+
+/* contact */ 
+.contact
+{
+    height: 40vh;
+    background-image: url("../img/3.png");
+    background-repeat: no-repeat;
+}
+
+.contact-text
+{
+    padding: 3%;
+}
+
+.contact button
+{
+    color: white;
+    background-color: rgb(1, 107, 186);
+}
+
+.contact p
+{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+
+/* //contact */
